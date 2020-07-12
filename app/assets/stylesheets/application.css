@@ -50,6 +50,11 @@ img {
   padding: 20px;
 }
 
+#header .logo img {
+  width: 150px;
+  height: auto;
+}
+
 #footer {
   background-color: #333;
   color: #fff;

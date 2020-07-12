@@ -19,6 +19,11 @@
       -moz-appearance: none;
     }
     }
+    .image-preview {
+      img {
+        max-width: 200px;
+      }
+    }
     .submit-block {
       display: flex;
       align-items: center;
